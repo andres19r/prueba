@@ -1,0 +1,2 @@
+Este es un documento de texto que servirá como ejemplo
+para el funcionamiento de Git.
