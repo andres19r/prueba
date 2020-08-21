@@ -1,2 +1,2 @@
 # prueba
-Experimentos y pruenas con git y github
+Experimentos y pruebas con git y github
